@@ -89,3 +89,14 @@ indices:
       - /ja/search
       - /ja/footer
     target: /ja/query-index.json
+    
+  site-ar:
+    <<: *base-site
+    include:
+      - '/ar'
+      - '/ar/**'
+    exclude:
+      - /ar/nav
+      - /ar/search
+      - /ar/footer
+    target: /ar/query-index.json
