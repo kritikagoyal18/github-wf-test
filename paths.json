@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/test/language-masters/en:/",
-    "/content/test/language-masters/en/:/en/",
-    "/content/test/language-masters/fr/:/fr/",
-    "/content/test/language-masters/fr:/fr",
-    "/content/test/language-masters/es/:/es/",
-    "/content/test/language-masters/es:/es",
-    "/content/test/language-masters/ja/:/ja/",
-    "/content/test/language-masters/ja:/ja",
-    "/content/test/language-masters/de/:/de/",
-    "/content/test/language-masters/de:/de",
-    "/content/test/configuration:/.helix/config.json",
-    "/content/test/metadata:/metadata.json",
-    "/content/test/redirects:/redirects.json",
-    "/content/test/placeholders:/placeholders.json"
+    "/content/kritika-rd-dev/language-masters/en:/",
+    "/content/kritika-rd-dev/language-masters/en/:/en/",
+    "/content/kritika-rd-dev/language-masters/fr/:/fr/",
+    "/content/kritika-rd-dev/language-masters/fr:/fr",
+    "/content/kritika-rd-dev/language-masters/es/:/es/",
+    "/content/kritika-rd-dev/language-masters/es:/es",
+    "/content/kritika-rd-dev/language-masters/ja/:/ja/",
+    "/content/kritika-rd-dev/language-masters/ja:/ja",
+    "/content/kritika-rd-dev/language-masters/de/:/de/",
+    "/content/kritika-rd-dev/language-masters/de:/de",
+    "/content/kritika-rd-dev/configuration:/.helix/config.json",
+    "/content/kritika-rd-dev/metadata:/metadata.json",
+    "/content/kritika-rd-dev/redirects:/redirects.json",
+    "/content/kritika-rd-dev/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/test/",
-    "/content/dam/test/"
+    "/content/kritika-rd-dev/",
+    "/content/dam/kritika-rd-dev/"
   ]
 }
